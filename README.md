@@ -15,6 +15,6 @@ Routes
 /pizza
 
 Different URL pathways have different images generated for them.
-Default is: https://images.bbbgp.org/meeting/
+Default is: https://images.bbbgp.org/meeting
 
 The password for upload is set as an environmental variable "password".
